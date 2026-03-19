@@ -5,3 +5,5 @@
 
 # Call the base S2I assemble script
 /usr/libexec/s2i/assemble
+
+exec node server.js
