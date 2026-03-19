@@ -8,3 +8,4 @@ cp -Rf . $HOME
 
 # TODO: Add command to install Node.js dependencies
 # Hint: run inside $HOME
+cd $HOME && npm install
